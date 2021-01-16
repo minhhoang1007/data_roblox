@@ -1227,7 +1227,7 @@
   {
     "name": "Anakin ",
     "category": "WINGS MAN",
-    "imageName": "Anakin.png",
+    "image": "Anakin.png",
     "images": [
       "Anakin1.png",
       "Anakin2.png",
@@ -1243,7 +1243,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/1911696130/Official-Black-Fire-Hoodie",
       "https://www.roblox.com/catalog/241511828/Mystic-Sword-of-the-Flames",
       "https://www.roblox.com/catalog/144076760/Dark-Green-Jeans",
@@ -1260,7 +1260,7 @@
   {
     "name": "Doghat",
     "category": "WINGS MAN",
-    "imageName": "Doghat.png",
+    "image": "Doghat.png",
     "images": [
       "Doghat1.png",
       "Doghat2.png",
@@ -1278,7 +1278,7 @@
       "Doghat14.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/376531703/ROBLOX-Boy-Right-Leg",
       "https://www.roblox.com/catalog/376531300/ROBLOX-Boy-Left-Leg",
       "https://www.roblox.com/catalog/376531012/ROBLOX-Boy-Right-Arm",
@@ -1301,7 +1301,7 @@
   {
     "name": "Ernest",
     "category": "COOL DUDE",
-    "imageName": "Ernest.png",
+    "image": "Ernest.png",
     "images": [
       "Ernest1.png",
       "Ernest2.png",
@@ -1312,7 +1312,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/4510344931/Snow-Monster-Scarf",
       "https://www.roblox.com/catalog/969769182/Voltron-Shirt",
       "https://www.roblox.com/catalog/2525917083/Neon-Greener-Shutter-Shades",
@@ -1324,7 +1324,7 @@
   {
     "name": "Robert",
     "category": "COOL DUDE",
-    "imageName": "Robert.png",
+    "image": "Robert.png",
     "images": [
       "Robert1.png",
       "Robert2.png",
@@ -1336,7 +1336,7 @@
       "Robert8.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/86499716/Woman-Left-Arm",
       "https://www.roblox.com/catalog/86499698/Woman-Right-Arm",
       "https://www.roblox.com/catalog/7074764/Chill",
@@ -1350,7 +1350,7 @@
   {
     "name": "Jack",
     "category": "COOL DUDE",
-    "imageName": "Jack.png",
+    "image": "Jack.png",
     "images": [
       "Jack1.png",
       "Jack2.png",
@@ -1372,7 +1372,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/376530220/ROBLOX-Boy-Left-Arm",
       "https://www.roblox.com/catalog/144075659/Smile",
       "https://www.roblox.com/catalog/86498048/Man-Head",
@@ -1395,7 +1395,7 @@
   {
     "name": "Harry",
     "category": "WINGS MAN",
-    "imageName": "Harry.png",
+    "image": "Harry.png",
     "images": [
       "Harry1.png",
       "Harry2.png",
@@ -1412,7 +1412,7 @@
       "Harry13.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/20418658/Err",
       "https://www.roblox.com/catalog/301825891/XBOX-M-Right-Leg",
       "https://www.roblox.com/catalog/301825699/XBOX-M-Left-Leg",
@@ -1431,7 +1431,7 @@
   {
     "name": "Jacob",
     "category": "COOL DUDE",
-    "imageName": "Jacob.png",
+    "image": "Jacob.png",
     "images": [
       "Jacob1.png",
       "Jacob2.png",
@@ -1448,7 +1448,7 @@
       "Jacob13.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/4876469013/Destructive-Aura",
       "https://www.roblox.com/catalog/15637848/unnamed",
       "https://www.roblox.com/catalog/4623728953/Black-Demon-Trident",
@@ -1467,7 +1467,7 @@
   {
     "name": "Thomas",
     "category": "COOL DUDE",
-    "imageName": "Thomas.png",
+    "image": "Thomas.png",
     "images": [
       "Thomas1.png",
       "Thomas2.png",
@@ -1481,7 +1481,7 @@
       "Thomas10.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/86498048/Man-Head",
       "https://www.roblox.com/catalog/16630147/Beautiful-Hair-for-Beautiful-People",
       "https://www.roblox.com/catalog/2037760278/NEW-Blue-Lightning-Adidas-Hoodie-50-Off",
@@ -1497,7 +1497,7 @@
   {
     "name": "Oscar",
     "category": "COOL DUDE",
-    "imageName": "Oscar.png",
+    "image": "Oscar.png",
     "images": [
       "Oscar1.png",
       "Oscar2.png",
@@ -1508,7 +1508,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/86498048/Man-Head",
       "https://www.roblox.com/catalog/22877700/Whistle",
       "https://www.roblox.com/catalog/586468150/O7-Dress-Blues",
@@ -1520,7 +1520,7 @@
   {
     "name": "James",
     "category": "COOL DUDE",
-    "imageName": "James.png",
+    "image": "James.png",
     "images": [
       "James1.png",
       "James2.png",
@@ -1531,7 +1531,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/3756389957/Cursed-Flames",
       "https://www.roblox.com/catalog/4904137145/Emotimask-Relax",
       "https://www.roblox.com/catalog/5053949817/unnamed",
@@ -1543,7 +1543,7 @@
   {
     "name": "William",
     "category": "COOL DUDE",
-    "imageName": "William.png",
+    "image": "William.png",
     "images": [
       "William1.png",
       "William2.png",
@@ -1559,7 +1559,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/27112068/Roblox-2-0-Right-Leg",
       "https://www.roblox.com/catalog/27112056/Roblox-2-0-Left-Leg",
       "https://www.roblox.com/catalog/27112025/Roblox-2-0-Torso",
@@ -1576,7 +1576,7 @@
   {
     "name": "Noah",
     "category": "COOL DUDE",
-    "imageName": "Noah.png",
+    "image": "Noah.png",
     "images": [
       "Noah1.png",
       "Noah2.png",
@@ -1594,7 +1594,7 @@
       "Noah14.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/27112068/Roblox-2-0-Right-Leg",
       "https://www.roblox.com/catalog/27112056/Roblox-2-0-Left-Leg",
       "https://www.roblox.com/catalog/27112025/Roblox-2-0-Torso",
@@ -1614,7 +1614,7 @@
   {
     "name": "Liam",
     "category": "COOL DUDE",
-    "imageName": "Liam.png",
+    "image": "Liam.png",
     "images": [
       "Liam1.png",
       "Liam2.png",
@@ -1630,7 +1630,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/27112068/Roblox-2-0-Right-Leg",
       "https://www.roblox.com/catalog/27112056/Roblox-2-0-Left-Leg",
       "https://www.roblox.com/catalog/27112025/Roblox-2-0-Torso",
@@ -1647,7 +1647,7 @@
   {
     "name": "Mason",
     "category": "COOL DUDE",
-    "imageName": "Mason.png",
+    "image": "Mason.png",
     "images": [
       "Mason1.png",
       "Mason2.png",
@@ -1664,7 +1664,7 @@
       "Mason13.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/27112068/Roblox-2-0-Right-Leg",
       "https://www.roblox.com/catalog/27112056/Roblox-2-0-Left-Leg",
       "https://www.roblox.com/catalog/27112052/Roblox-2-0-Left-Arm",
@@ -1683,7 +1683,7 @@
   {
     "name": "Ethan",
     "category": "COOL DUDE",
-    "imageName": "Ethan.png",
+    "image": "Ethan.png",
     "images": [
       "Ethan1.png",
       "Ethan2.png",
@@ -1700,7 +1700,7 @@
       "Ethan13.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/706850708/BUFF-Pretty-old",
       "https://www.roblox.com/catalog/86500054/Man-Left-Arm",
       "https://www.roblox.com/catalog/86500036/Man-Right-Arm",
@@ -1719,7 +1719,7 @@
   {
     "name": "Daniel",
     "category": "WINGS MAN",
-    "imageName": "Daniel.png",
+    "image": "Daniel.png",
     "images": [
       "Daniel1.png",
       "Daniel2.png",
@@ -1737,7 +1737,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/144075659/Smile",
       "https://www.roblox.com/catalog/376532000/ROBLOX-Boy-Torso",
       "https://www.roblox.com/catalog/376530220/ROBLOX-Boy-Left-Arm",
@@ -1756,7 +1756,7 @@
   {
     "name": "Tony",
     "category": "COOL DUDE",
-    "imageName": "Tony.png",
+    "image": "Tony.png",
     "images": [
       "Tony1.png",
       "Tony2.png",
@@ -1774,7 +1774,7 @@
       "Tony14.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/4510712680/Rainway",
       "https://www.roblox.com/catalog/3185830268/Pastel-Hair-for-Beautiful-People",
       "https://www.roblox.com/catalog/3963930466/Fallen-Halo",
@@ -1794,7 +1794,7 @@
   {
     "name": "Ben",
     "category": "COOL DUDE",
-    "imageName": "Ben.png",
+    "image": "Ben.png",
     "images": [
       "Ben1.png",
       "Ben2.png",
@@ -1816,7 +1816,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/4772997581/Teal-Techno-Rabbit-Headphones",
       "https://www.roblox.com/catalog/4637254498/Classic-Male-v2-Hair",
       "https://www.roblox.com/catalog/376532000/ROBLOX-Boy-Torso",
@@ -1839,7 +1839,7 @@
   {
     "name": "Connor",
     "category": "COOL DUDE",
-    "imageName": "Connor.png",
+    "image": "Connor.png",
     "images": [
       "Connor1.png",
       "Connor2.png",
@@ -1860,7 +1860,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/2535843445/The-Harbinger-Face",
       "https://www.roblox.com/catalog/2582522965/Neon-Blue-Tie",
       "https://www.roblox.com/catalog/2549005282/Roblox-Character-Encyclopedia",
@@ -1882,7 +1882,7 @@
   {
     "name": "Edgar",
     "category": "COOL DUDE",
-    "imageName": "Edgar.png",
+    "image": "Edgar.png",
     "images": [
       "Edgar1.png",
       "Edgar2.png",
@@ -1898,7 +1898,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/1486248929/Cheestrings-Straw-Hat",
       "https://www.roblox.com/catalog/398633584/Denim-Jacket-with-White-Hoodie",
       "https://www.roblox.com/catalog/398633812/Black-Jeans-with-White-Shoes",
@@ -1915,7 +1915,7 @@
   {
     "name": "Arnold",
     "category": "WINGS MAN",
-    "imageName": "Arnold.png",
+    "image": "Arnold.png",
     "images": [
       "Arnold1.png",
       "Arnold2.png",
@@ -1930,7 +1930,7 @@
       "Arnold11.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/144076358/Blue-and-Black-Motorcycle-Shirt",
       "https://www.roblox.com/catalog/1028595/Bloxxer",
       "https://www.roblox.com/catalog/382538503/Black-Jeans-with-Sneakers",
@@ -1948,7 +1948,7 @@
   {
     "name": "Basil",
     "category": "WINGS MAN",
-    "imageName": "Basil.png",
+    "image": "Basil.png",
     "images": [
       "Basil1.png",
       "Basil2.png",
@@ -1965,7 +1965,7 @@
       "Basil13.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/16630147/Beautiful-Hair-for-Beautiful-People",
       "https://www.roblox.com/catalog/27112068/Roblox-2-0-Right-Leg",
       "https://www.roblox.com/catalog/27112025/Roblox-2-0-Torso",
@@ -1984,7 +1984,7 @@
   {
     "name": "Christopher",
     "category": "WINGS MAN",
-    "imageName": "Christopher.png",
+    "image": "Christopher.png",
     "images": [
       "Christopher1.png",
       "Christopher2.png",
@@ -1996,7 +1996,7 @@
       "Christopher8.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/4018617474/Classic-Male-Face",
       "https://www.roblox.com/catalog/617605556/Medieval-Hood-of-Mystery",
       "https://www.roblox.com/catalog/376547092/ROBLOX-Girl-Right-Leg",
@@ -2010,7 +2010,7 @@
   {
     "name": "Philip",
     "category": "WINGS MAN",
-    "imageName": "Philip.png",
+    "image": "Philip.png",
     "images": [
       "Philip1.png",
       "Philip2.png",
@@ -2030,7 +2030,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/27112052/Roblox-2-0-Left-Arm",
       "https://www.roblox.com/catalog/27112056/Roblox-2-0-Left-Leg",
       "https://www.roblox.com/catalog/27112039/Roblox-2-0-Right-Arm",
@@ -2051,7 +2051,7 @@
   {
     "name": "Austin",
     "category": "WINGS MAN",
-    "imageName": "Austin.png",
+    "image": "Austin.png",
     "images": [
       "Austin1.png",
       "Austin2.png",
@@ -2069,7 +2069,7 @@
 
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/376547092/ROBLOX-Girl-Right-Leg",
       "https://www.roblox.com/catalog/376546668/ROBLOX-Girl-Left-Leg",
       "https://www.roblox.com/catalog/144076358/Blue-and-Black-Motorcycle-Shirt",
@@ -2090,7 +2090,7 @@
   {
     "name": "Amyleek",
     "category": "WINGS MAN",
-    "imageName": "Amyleek.png",
+    "image": "Amyleek.png",
     "images": [
       "Amyleek1.png",
       "Amyleek2.png",
@@ -2108,7 +2108,7 @@
       "Amyleek14.png",
       "Amyleek15.png"
     ],
-    "links": [
+    "urls": [
       ",https://www.roblox.com/catalog/434289516/BFG-Dream-Horn",
       ",https://www.roblox.com/catalog/376531703/ROBLOX-Boy-Right-Leg",
       ",https://www.roblox.com/catalog/376531300/ROBLOX-Boy-Left-Leg",
@@ -2129,7 +2129,7 @@
   {
     "name": "Awes",
     "category": "WINGS MAN",
-    "imageName": "Awes.png",
+    "image": "Awes.png",
     "images": [
       "Awes1.png",
       "Awes2.png",
@@ -2143,7 +2143,7 @@
       "Awes10.png",
       "Awes11.png"
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/31117267/Skeptic",
       "https://www.roblox.com/catalog/106690045/Classic-Swordpack-Throwback",
       "https://www.roblox.com/catalog/150966303/Brown-Jacket",
@@ -2160,7 +2160,7 @@
   {
     "name": "Alejand",
     "category": "WINGS MAN",
-    "imageName": "Alejand.png",
+    "image": "Alejand.png",
     "images": [
       "Alejand1.png",
       "Alejand2.png",
@@ -2177,7 +2177,7 @@
       "Alejand13.png",
       "Alejand14.png"
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/376532000/ROBLOX-Boy-Torso",
       "https://www.roblox.com/catalog/2493786076/Knights-of-Redcliff-Paladin-Right-Arm",
       "https://www.roblox.com/catalog/62234425/Brown-Hair",
@@ -2197,7 +2197,7 @@
   {
     "name": "Jake",
     "category": "WINGS MAN",
-    "imageName": "Jake.png",
+    "image": "Jake.png",
     "images": [
       "Jake1.png",
       "Jake2.png",
@@ -2213,7 +2213,7 @@
       "Jake12.png",
       "Jake13.png"
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/2031143065/Black-Lightning-Kicks",
       "https://www.roblox.com/catalog/86498048/Man-Head",
       "https://www.roblox.com/catalog/32336059/Superhero-Torso",
@@ -2232,7 +2232,7 @@
   {
     "name": "Erfs",
     "category": "WINGS MAN",
-    "imageName": "Erfs.png",
+    "image": "Erfs.png",
     "images": [
       "Erfs1.png",
       "Erfs2.png",
@@ -2243,7 +2243,7 @@
       "Erfs7.png",
       "Erfs8.png"
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/398633812/Black-Jeans-with-White-Shoes",
       "https://www.roblox.com/catalog/7074786/Check-It",
       "https://www.roblox.com/catalog/1829155983/Jurassic-World-Shirt",
@@ -2258,7 +2258,7 @@
   {
     "name": "Pet",
     "category": "WINGS MAN",
-    "imageName": "Pet.png",
+    "image": "Pet.png",
     "images": [
       "Pet1.png",
       "Pet2.png",
@@ -2273,7 +2273,7 @@
       "Pet11.png",
       "Pet12.png"
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/2620477453/New-Years-Kitty",
       "https://www.roblox.com/catalog/2998365729/Dragonlord-Wings",
       "https://www.roblox.com/catalog/32336059/Superhero-Torso",
@@ -2291,7 +2291,7 @@
   {
     "name": "Zorro",
     "category": "WINGS MAN",
-    "imageName": "Zoe.png",
+    "image": "Zoe.png",
     "images": [
       "Zoe1.png",
       "Zoe2.png",
@@ -2306,7 +2306,7 @@
       "Zoe11.png"
 
     ],
-    "links": [
+    "urls": [
       "https://www.roblox.com/catalog/86499698/Woman-Right-Arm",
       "https://www.roblox.com/catalog/86499666/Woman-Torso",
       "https://www.roblox.com/catalog/86498113/Woman-Head",
